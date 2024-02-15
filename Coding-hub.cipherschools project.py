@@ -3,7 +3,8 @@
  
 
 def romanToInt(s):
-		translations = {
+		translations = 
+	
 			"I": 1,
 			"V": 5,
 			"X": 10,
