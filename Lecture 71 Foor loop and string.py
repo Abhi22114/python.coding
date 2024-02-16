@@ -1,3 +1,4 @@
+
 name="Abhijeet"
 for i in range(len(name)):   #we use this method to print each character of a string
     print(name[i])
