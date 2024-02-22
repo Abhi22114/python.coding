@@ -1,5 +1,3 @@
-
-
 # Practise for loop
 #ask the user  a number like 2345
 #calculate sum of digits ------>>>> 2+3+4+5
